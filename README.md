@@ -43,7 +43,7 @@ Soy desarrollador con titulación en DAM, ASIR y Especialización en Python, esp
  *
  * @throws {Error} A todos los bugs que encuentre en el código.
  *
- * @returns {Object} Dangel.
+ * @returns {Object} Ángel Guerrero.
  */
 ```
 
@@ -166,7 +166,7 @@ Si tienes alguna pregunta sobre desarrollo backend, aplicaciones multiplataforma
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44461381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
 <hr>
