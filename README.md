@@ -16,7 +16,7 @@ Soy desarrollador con titulación en DAM, ASIR y Especialización en Python, esp
   </div>
 <div align="center">
   <a href="https://github.com/Dangelcrack">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Especializado+en+Python;Hola%2C+soy+Ángel;Bienvenido+a+mi+perfil+de+GitHub;Curioso+e+inquieto+por+naturaleza;Graduado+en+DAM+y+ASIR;Desarrollador+Backend+y+Multiplataforma;Amante+de+los+videojuegos;Trabajador+y+ambicioso;Fan%C3%A1tico+del+gimnasio;Amante+de+la+programaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+%C3%81ngel;Bienvenido+a+mi+perfil+de+GitHub;Curioso+e+inquieto+por+naturaleza;Graduado+en+DAM+y+ASIR;Desarrollador+Backend+y+Multiplataforma;Especializado+en+Python;Amante+de+los+videojuegos;Trabajador+y+ambicioso;Fan%C3%A1tico+del+gimnasio;Amante+de+la+programaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 </div>
