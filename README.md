@@ -22,9 +22,9 @@ Spring Boot (backend API) + Angular 18 (frontend con SSR) + MySQL
 Proyecto full-stack donde he trabajado en ambos lados.
 
 ### 🌱 AgroDataLab
-**Sensor Data Analytics & Web Platform agrícola**
-Django + Pandas + Scikit-Learn + Jupyter/NotebookLM
-Plataforma web para monitorización y análisis de datos de sensores agrícolas EnviroPro. En el mismo repo conviven la web en Django y los notebooks de análisis exploratorio (EDA) y modelos predictivos (detección de anomalías, humedad, batería, panel solar).
+**Análisis de sensores de riego (humedad y temperatura)**
+Django + Pandas + Scikit-Learn + Jupyter Notebooks
+Analiza datos de sensores de humedad y temperatura de una zona de regadío, los limpia y normaliza, y los sube a una plataforma web en Django. Sobre esos datos se generan alertas cuando los valores salen de rango.
 [Ver repo](https://github.com/Dangelcrack/agrodatalab-enviropro) · [Demo en vivo](https://angelpablo2.alwaysdata.net/)
 
 ### Pokémon Angular
