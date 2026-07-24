@@ -2,7 +2,7 @@
 
 **Backend Developer** • Python / Django • Java / Spring Boot • Angular
 
-Titulado en DAM y ASIR, con especialización extra en Python (nota media 8,5). Actualmente en búsqueda de mi primera oportunidad como desarrollador junior.
+Backend developer junior con experiencia real en producción: automaticé procesos reduciendo tiempos de gestión un 40% y optimicé consultas SQL con mejoras del 30%. Titulado en DAM y ASIR, con especialización en Python (nota media 8,5).
 
 🌐 **[Portfolio](https://dangelcrack.github.io)** · 💼 **[LinkedIn](https://linkedin.com/in/angel-d-guerrero)** · 📧 **[angelguerrero540@gmail.com](mailto:angelguerrero540@gmail.com)**
 
